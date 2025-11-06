@@ -42,11 +42,6 @@ lerna-debug.log*
 *.sw?
 
 # ----------------------
-# Certificates
-# ----------------------
-certs/
-
-# ----------------------
 # Optional system files
 # ----------------------
 Thumbs.db
